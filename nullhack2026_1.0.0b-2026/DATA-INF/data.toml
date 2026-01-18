@@ -1,0 +1,22 @@
+# Hack2005 Config
+
+modLoader="hackloader"
+license="HL4license"
+loaderVersion="[0.0.1,)" 
+issueTrackerURL="https://github.com/Visi0n/nullhack-with-updates/issues"          
+displayURL="https://www.visionnull.com/nullhack"  
+logoFile="logo-nullhack.png" 
+
+[[mods]]
+    modId="nullhack"
+    version="0.0.1"
+    displayName="nullhack"
+    authors="Visi0n"
+    description="Want some hacking tools? Use it and have fun with your hacks!"
+
+[[dependencies.nullhack]]
+    modId="null"
+    mandatory=false
+    versionRange="[0.0.1,)"
+    ordering="NONE"
+    side="BOTH"
