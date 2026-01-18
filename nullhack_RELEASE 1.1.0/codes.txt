@@ -1,0 +1,5 @@
+#How to open any website?
+start [website_name]
+#How to run Python with any version
+python
+BASIC CODES-

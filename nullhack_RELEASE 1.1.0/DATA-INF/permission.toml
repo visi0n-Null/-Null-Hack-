@@ -1,0 +1,11 @@
+# Permission Definitions
+
+[permissions]
+filesystem=true
+network=true
+memoryAccess=false
+kernelAccess=false
+
+[restrictions]
+adminRequired=false
+sandboxed=true

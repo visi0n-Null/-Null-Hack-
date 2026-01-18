@@ -1,0 +1,10 @@
+# Feature Flags
+
+[features]
+packetSniffer=false
+visualOverlay=true
+speedInjector=false
+memoryScanner=false
+
+[experimental]
+enabled=false

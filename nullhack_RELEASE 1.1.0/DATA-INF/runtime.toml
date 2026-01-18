@@ -1,0 +1,11 @@
+# Runtime Configuration
+
+[runtime]
+mode="stealth"
+logLevel="INFO"
+debug=false
+threadCount=4
+
+[logging]
+logFile="runtime.log"
+writeConsole=true

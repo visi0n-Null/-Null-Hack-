@@ -1,0 +1,12 @@
+# <NULL-Hack> Loader Configuration
+
+loaderName="null-hack"
+displayName="<NULL-Hack>"
+entryPoint="com.visionnull.nullhack.Main"
+environment="client"
+language="java"
+minJavaVersion="8"
+
+[init]
+autoStart=true
+safeMode=false
